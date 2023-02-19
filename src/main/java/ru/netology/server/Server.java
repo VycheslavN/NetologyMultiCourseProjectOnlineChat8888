@@ -71,8 +71,8 @@ public class Server {
         public void run() {
             try {
                 String name = in.readLine();
-                LOGGER.log(name + " cames now");
-                sendMessageAllConnection(name + " cames now");
+                LOGGER.log(name + " says now");
+                sendMessageAllConnection(name + " says now");
 
                 String message;
                 while (true) {
