@@ -1,0 +1,41 @@
+2023-02-19 17:01:05 Ошибка в конструкторе у класса ru.netology.Config
+2023-02-19 17:01:05 Ошибка в конструкторе у класса ru.netology.client.Client
+2023-02-19 17:01:05 Закрытие потоков у класса ru.netology.client.Client
+2023-02-19 17:01:25 Ошибка в конструкторе у класса ru.netology.Config
+2023-02-19 17:01:25 Server started!
+2023-02-19 17:03:32 Ошибка в конструкторе у класса ru.netology.Config
+2023-02-19 17:03:32 Server started!
+2023-02-19 17:03:41 Ошибка в конструкторе у класса ru.netology.Config
+2023-02-19 17:03:41 Ошибка в конструкторе у класса ru.netology.client.Client
+2023-02-19 17:03:41 Закрытие потоков у класса ru.netology.client.Client
+2023-02-19 17:04:43 Ошибка в конструкторе у класса ru.netology.Config
+2023-02-19 17:11:33 Server started!
+2023-02-19 17:11:38 Клиенту предлагают ввести свой никнейм
+2023-02-19 17:11:49 vovan cames now
+2023-02-19 17:12:02 vovan: hello
+2023-02-19 17:12:18 vovan: boris
+2023-02-19 17:12:31 Ошибка в методе run() у класса ru.netology.client.Receiver
+2023-02-19 17:12:32 Server started!
+2023-02-19 17:12:41 Клиенту предлагают ввести свой никнейм
+2023-02-19 17:12:56  mikita cames now
+2023-02-19 17:13:05  mikita: boris
+2023-02-19 17:13:11  mikita: go
+2023-02-19 17:13:48  mikita has left
+2023-02-19 17:13:48 Закрытие потоков у класса ru.netology.server.Server$Connection
+2023-02-19 17:13:48 Закрытие потоков у класса ru.netology.client.Client
+2023-02-19 17:14:32 Test message LoggerTest
+2023-02-19 17:15:24 Server started!
+2023-02-19 17:15:30 Клиенту предлагают ввести свой никнейм
+2023-02-19 17:15:47 crees cames now
+2023-02-19 17:15:59 crees: vovav
+2023-02-19 17:16:02 crees: fdghf
+2023-02-19 17:16:04 crees: fhfhfg
+2023-02-19 17:16:06 crees: fghfgfd
+2023-02-19 17:46:57 Server started!
+2023-02-19 17:47:03 Клиенту предлагают ввести свой никнейм
+2023-02-19 17:47:20  Georgiy cames now
+2023-02-19 17:47:41 Ошибка в методе run() у класса ru.netology.server.Server$Connection
+2023-02-19 17:47:41 Закрытие потоков у класса ru.netology.server.Server$Connection
+2023-02-19 17:47:41 Клиенту предлагают ввести свой никнейм
+2023-02-19 17:47:48 Boris cames now
+2023-02-19 17:47:59 Boris: Hello!
