@@ -71,13 +71,13 @@ public class Server {
         public void run() {
             try {
                 String name = in.readLine();
-                LOGGER.log(name + " says now");
-                sendMessageAllConnection(name + " says now");
+                LOGGER.log(name + " online now");
+                sendMessageAllConnection(name + " online now");
 
                 String message;
                 while (true) {
                     message = in.readLine();
-                    if ("exit".equals(message)) {
+                    if ("/exit".equals(message)) {
                         break;
                     }
                     LOGGER.log(name + ": " + message);

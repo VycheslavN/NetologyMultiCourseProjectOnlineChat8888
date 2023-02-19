@@ -1,1 +1,18 @@
 
+2023-02-19 18:48:16 Server started!
+2023-02-19 18:48:31 Клиенту предлагают ввести свой никнейм
+2023-02-19 18:48:35 Клиенту предлагают ввести свой никнейм
+2023-02-19 18:48:53 Olya online now
+2023-02-19 18:49:07 Olya: Hello!
+2023-02-19 18:49:25 Boris online now
+2023-02-19 18:49:54 Boris: how are you?
+2023-02-19 18:50:28 Olya: fine!
+2023-02-19 18:51:06 Olya: Boris are you okay?
+2023-02-19 18:51:37 Boris: my head hurts
+2023-02-19 18:52:10 Boris: everything else is fine
+2023-02-19 18:52:36 Olya: It will pass
+2023-02-19 18:53:19 Olya: goodbye Boris
+2023-02-19 18:53:57 Boris: And you don't get sick...
+2023-02-19 18:54:21 Закрытие потоков у класса ru.netology.client.Client
+2023-02-19 18:54:26 Закрытие потоков у класса ru.netology.client.Client
+2023-02-19 18:59:19 Test message LoggerTest
